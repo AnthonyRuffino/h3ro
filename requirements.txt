@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+h3==3.7.6
+geojson
+shapely==2.0.3

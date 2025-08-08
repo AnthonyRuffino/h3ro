@@ -1,0 +1,43 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+
+# Python (if applicable)
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Node (if applicable)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build artifacts
+dist/
+build/
+*.o
+*.out
+*.so
+
+# VS Code settings
+.vscode/
+
+# JetBrains IDEs (IntelliJ, etc.)
+.idea/
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+.env
+
+# Example output files from README
+h3_ring.csv
+h3_cover.csv
+h3_interior.csv
